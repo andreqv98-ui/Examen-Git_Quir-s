@@ -1,8 +1,30 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #F4F4F4;
+  background-color: #F4F4F4; 
+  color: #333333;            
 }
 
-h1 {
-    color: #1E3A5F;
+
+h1, h2, h3 {
+  color: #1E3A5F;   
+}
+
+header {
+  background-color: #1E3A5F;
+  color: #FFFFFF;            
+}
+
+header a {
+  color: #FFFFFF;            
+}
+
+
+.card {
+  background-color: #FFFFFF; 
+}
+
+
+footer {
+  background-color: #1E3A5F;
+  color: #FFFFFF;         
+  text-align: center;        
 }
